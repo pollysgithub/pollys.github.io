@@ -1,0 +1,214 @@
+#footer
+{
+    position: absolute;
+height: 114px;
+left: 0px;
+right: 0px;
+top: 733px;
+    background: rgba(0, 0, 0, 0.75);
+}
+#bg
+{
+    position: absolute;
+    width: 1366px;
+    height: 845px;
+    left: 0px;
+    top: 0px;
+    
+    opacity: 0.8; 
+    background-image: url(BackGround.png);
+}
+#frame1
+{
+    position: absolute;
+    width: 327px;
+    left: 35px;
+    top: 23px;
+    bottom: 33px;
+    
+    font-family: Pridi;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18.9708px;
+    line-height: 29px;
+    
+    color: #FFE7D1;
+}
+
+#frame3
+{
+    position: absolute;
+    width: 317px;
+    right: 42px;
+    top: 23px;
+    bottom: 33px;
+    
+    font-family: Pridi;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18.9708px;
+    line-height: 29px;
+    text-align: right;
+    
+    color: #FFE7D1;
+}
+
+#menu
+{
+    position: absolute;
+    height: 37.11px;
+    left: 307px;
+    right: 308px;
+    top: 63px;
+}
+#contenttext1
+{
+    position: absolute;
+    left: 2.29%;
+    right: 58.19%;
+    top: 24.43%;
+    bottom: 51.46%;
+    
+    font-family: Rajdhani;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 43.6945px;
+    line-height: 56px;
+    
+    color: #061830;
+}
+#contenttext2
+{
+    position: absolute;
+    left: 2.29%;
+    right: 60.82%;
+    top: 53.75%;
+    bottom: 41.42%;
+    
+    font-family: Laila;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23.3038px;
+    line-height: 36px;
+    
+    color: #061830;
+}
+
+
+#submenu1text
+{
+    position: absolute;
+    left: 31.18px;
+    right: 611.13px;
+    top: 3.91px;
+    bottom: -3.71px;
+
+    font-family: Ribeye;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23.4382px;
+    line-height: 32px;
+
+    color: #072245;
+}
+#submenu2text
+{
+    position: absolute;
+left: 167.48px;
+right: 474.83px;
+top: 3.91px;
+bottom: -3.71px;
+
+font-family: Ribeye;
+font-style: normal;
+font-weight: normal;
+font-size: 23.4382px;
+line-height: 32px;
+
+color: #072245;
+}
+#submenu3text
+{
+    position: absolute;
+    left: 303.79px;
+    right: 303.79px;
+    top: 3.91px;
+    bottom: 8.79px;
+    
+    font-family: Ribeye;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23.4382px;
+    line-height: 32px;
+    
+    color: #072245;
+}
+#submenu4text
+{
+    position: absolute;
+    left: 474.83px;
+    right: 130.96px;
+    top: 3.91px;
+    bottom: -3.91px;
+    
+    font-family: Ribeye;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23.4382px;
+    line-height: 32px;
+    
+    color: #072245;
+}
+#submenu5text
+{
+    position: absolute;
+    left: 647.66px;
+    right: -31.18px;
+    top: 3.91px;
+    bottom: -3.91px;
+    
+    font-family: Ribeye;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23.4382px;
+    line-height: 32px;
+    
+    color: #072245;
+}
+#header
+{
+    position: absolute;
+    width: 1366px;
+    height: 103px;
+    left: 0px;
+    top: 0px;
+    background-image: url(Header.png);
+}
+#headertext
+{
+/* ДОСТАВКА ВОДЫ В КАЗАНИ */
+
+position: absolute;
+left: 457px;
+right: 458px;
+top: 5px;
+bottom: 54px;
+
+font-family: Ribeye;
+font-style: normal;
+font-weight: normal;
+font-size: 37.5556px;
+line-height: 51px;
+
+color: #072245;
+}
+#content
+{   
+    position: absolute;
+    width: 1440px;
+    height: 745px;
+    left: 0px;
+    top: 102px;
+    background-image: url(Content.png);
+}
+
